@@ -1,0 +1,38 @@
+.info-conn {
+    width: 25%;
+}
+
+.green {
+    display: none;
+}
+
+.blue {width:50%; margin:auto;}
+
+@media screen and (max-width: 576px) {
+    .info-conn {
+        width: 95%;
+        margin: auto;
+    }
+
+    .red {
+        width: 100vh;
+    }
+
+    .blue {
+        width: 95%;
+        margin: auto;
+    }
+
+    .green {
+        display: block;
+        margin-top: 10px;
+        color: cornsilk;
+        text-align: center;
+    }
+
+    a,
+    a:link {
+        color: yellow;
+    }
+
+}
