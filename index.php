@@ -117,6 +117,5 @@
     </div>
 </div>
 <?php include("includes/footer.php");
-#https://www.youtube.com/watch?v=pn2v9lPakHQ&ab_channel=Fazt
-#Agregar filtros de visualización x categoría y nuevas categorías
+
 ?>
